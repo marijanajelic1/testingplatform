@@ -1,0 +1,50 @@
+form.firstform {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  h1.p{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    
+  }
+  form.firstform  {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  form.firstform label{
+    display: block;
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
+  form.firstform input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  form.firstform input[type="submit"] {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  form.firstform input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
