@@ -1,0 +1,1 @@
+Web application designed for use by high school students to prepare for the computer science entrance exam. The application consists of three key parts: student, teacher and administrator part of the platform.
